@@ -1,4 +1,4 @@
-### <h1>Hi there I'm Fisaq 👋<h1/>
+### <h1>Olá, eu sou o Isaque, muito prazer! 👋<h1/>
 
-I'm currently studying Computer Science. I'm a passionate about technology and I try to archive my trajectory here,
-feel free to check out my projects!😉
+Sou um graduando em Ciência da Computação, atualmente concentro meus estudos na área de Ciência de Dados.👨‍💻
+Estarei colocando minha trajetória de aprendizado neste site, caso queira acompanhar, seja muito bem vindo!😉
