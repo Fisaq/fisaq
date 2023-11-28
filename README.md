@@ -10,15 +10,3 @@ Estarei registrando minha trajetória de aprendizado aqui. Caso queira acompanha
   <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   
 </div>
-
-##
-
-</div>
-
-  <a href="https://github.com/Fisaq">
-    <img height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fisaq&langs_count=7&theme=dark" style = "space-between: 200">
-  </a>
-
-</div>
-
-##
