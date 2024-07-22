@@ -1,8 +1,6 @@
 ## About Me
 
-Atualmente, sou graduando em Ciência da Computação e acumulo mais de 1 ano de experiência em análise de dados.
-
-Sou um entusiasta da Ciência da Computação e vejo na Ciência de Dados uma forma de aplicar a computação e a matemática como um solucionador de problemas reais, bem como uma forma de trazer melhor qualidade de vida para as pessoas.
+Sou um estudante de Ciência da Computação e vejo na Ciência de Dados uma forma de aplicar a computação e a matemática como um solucionador de problemas reais, bem como ser um agente transformador do mundo.
 
 Estou em contínuo aprendizado, sempre guiado pelos meus valores e pela busca constante de excelência.
 
