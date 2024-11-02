@@ -1,6 +1,6 @@
 ## About Me
 
-Sou um estudante de Ciência da Computação e vejo na Ciência de Dados uma forma de aplicar a computação e a matemática como um solucionador de problemas reais, bem como ser um agente transformador do mundo.
+Sou um estudante de Ciência da Computação e vejo a Tecnologia como uma forma de solucionar problemas reais, um agente transformador do mundo.
 
 Estou em contínuo aprendizado, sempre guiado pelos meus valores e pela busca constante de excelência.
 
