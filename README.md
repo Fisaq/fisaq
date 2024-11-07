@@ -1,8 +1,13 @@
-## About Me
+## Olá, sou o Isaque. Muito prazer!👋
 
-Sou um estudante de Ciência da Computação e vejo a Tecnologia como uma forma de solucionar problemas reais, um agente transformador do mundo.
+Sou estudante de Ciência da Computação, apaixonado por Tecnologia e seu potencial para resolver problemas reais e transformar o mundo.
 
-Estou em contínuo aprendizado, sempre guiado pelos meus valores e pela busca constante de excelência.
+Estou sempre em contínuo aprendizado, guiado pelos meus valores e pela vontade de me desenvolver.
 
-<a href="https://github.com/fisaq">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fisaq&layout=compact&langs_count=7&theme=onelight"/> 
+Aqui você encontrará minhas ideias, estudos e projetos, e poderá acompanhar minha jornada por esse fascinante universo da tecnologia
+
+<div align="center">
+  <a href="https://github.com/fisaq">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fisaq&layout=compact&langs_count=7&theme=onelight"/>
+  </a>
+</div>
