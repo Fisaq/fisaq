@@ -8,6 +8,6 @@ Aqui você encontrará minhas ideias, estudos e projetos, e poderá acompanhar m
 
 <div align="center">
   <a href="https://github.com/fisaq">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fisaq&layout=compact&langs_count=7&theme=onelight"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fisaq&layout=compact&langs_count=7&theme=dark"/>
   </a>
 </div>
