@@ -13,7 +13,7 @@ Aqui você encontrará minhas ideias, estudos e projetos, e poderá acompanhar m
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fisaq&layout=compact&langs_count=7&theme=dark"/>
   </a>
 </div>
- -------------------------------------------------------------------------------------------------------------------------------------------------------------
+ --------------------------------------------------------------------------------------------------------------------------------------------------------
 <div align="center">
 🙏🏻 <i>""Tudo o que fizerem, façam de todo o coração, como para o Senhor, 
   não para os homens, sabendo que receberão do Senhor a recompensa da herança, 
