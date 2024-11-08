@@ -1,4 +1,7 @@
-## Olá, sou o Isaque. Muito prazer!👋
+<div align="center">
+  <h2>Olá, sou o Isaque. Muito prazer!👋</h2>
+</div>
+
 
 Sou estudante de Ciência da Computação, apaixonado por Tecnologia e seu potencial para resolver problemas reais e transformar o mundo.
 
