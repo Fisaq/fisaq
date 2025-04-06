@@ -1,12 +1,14 @@
 <div align="center">
-  <h2>Olá, sou o Isaque. Muito prazer!👋</h2>
+  <h2>👋 Olá! Seja muito bem-vindo(a) ao meu GitHub!</h2>
 </div>
 
-Sou estudante de Ciência da Computação, apaixonado por Tecnologia e seu potencial para resolver problemas reais e transformar o mundo.
+Sou apaixonado por tecnologia e movido por propósito. Aqui você vai encontrar os projetos que tenho desenvolvido.
 
-Estou sempre em contínuo aprendizado, guiado pelos meus valores e pela vontade de me desenvolver.
+Tenho experiência com JavaScript/Node.js, Python, modelagem de banco de dados, consumo de APIs REST e versionamento com Git. No front-end, também me aventuro criando interfaces responsivas com foco em boas práticas de UX/UI Design.
 
-Aqui você encontrará minhas ideias, estudos e projetos, e poderá acompanhar minha jornada por esse fascinante universo da tecnologia!
+Já desenvolvi desde scripts para estruturar dados de APIs até ferramentas que apoiam decisões estratégicas. Tudo isso com um olhar voltado à melhoria contínua e impacto real.
+
+Fique à vontade para explorar meus repositórios e, se quiser trocar uma ideia ou colaborar, será um prazer!
 
 <div align="center">
   <a href="https://github.com/fisaq">
