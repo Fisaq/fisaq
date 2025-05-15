@@ -1,5 +1,5 @@
-```csharp
-Console.WriteLine("Welcome to my github!😄");
+```java
+System.out.println("Welcome to my github!😄");
 ```
 * 👨‍💻 Desenvolvedor de Software
 * 🎓 Graduando Ciência da Computação
