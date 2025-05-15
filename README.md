@@ -14,6 +14,6 @@ Console.WriteLine("Welcome to my github!😄");
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dotnet,postgresql,docker,nodejs,express,mongodb,python,git,figma,react" />
+    <img src="https://skillicons.dev/icons?i=java,nodejs,python,postgresql,docker,git" />
   </a>
 </div>
