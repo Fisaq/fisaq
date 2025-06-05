@@ -15,6 +15,6 @@ System.out.println("Welcome to my github!😄");
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,angular,java,python,postgresql" />
+    <img src="https://skillicons.dev/icons?i=nodejs,angular,python,postgresql,docker" />
   </a>
 </div>
