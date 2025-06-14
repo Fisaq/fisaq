@@ -1,5 +1,5 @@
-```java
-System.out.println("Welcome to my github!😄");
+```typescript
+console.log("Welcome to my github!😄");
 ```
 
 * 👨‍💻 Desenvolvedor de Software
