@@ -3,7 +3,7 @@ console.log("Welcome to my github!😄");
 ```
 
 * 👨‍💻 Desenvolvedor de Software
-* 🎓 Graduando Ciência da Computação
+* 🎓 Graduando em Ciência da Computação
 
 <div align="center">
   <a href="https://github.com/fisaq">
